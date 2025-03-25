@@ -1,0 +1,1 @@
+bu test_9.txt fayli n9.py fayliga tegishli

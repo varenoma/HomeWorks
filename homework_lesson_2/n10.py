@@ -1,0 +1,5 @@
+text = input().encode()
+print("Asl bytes:",text)
+ba = bytearray(text)
+ba.reverse()
+print("Teskari bytearray: ",ba)
